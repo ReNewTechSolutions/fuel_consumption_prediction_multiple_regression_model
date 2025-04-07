@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-blueviolet)
+
 # Fuel Consumption Prediction - Multiple Regression Model
 
 ## 📌 Project Overview
