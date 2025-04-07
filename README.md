@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-blueviolet)
 [![Download Release](https://img.shields.io/github/v/release/ReNewTechSolutions/fuel_consumption_prediction_multiple_regression_model?label=Download%20Release)](https://github.com/ReNewTechSolutions/fuel_consumption_prediction_multiple_regression_model/releases/latest)
+[![GitHub Project](https://img.shields.io/badge/View%20Project-on%20GitHub-blue?logo=github)](https://github.com/ReNewTechSolutions/fuel_consumption_prediction_multiple_regression_model)
 
 # Fuel Consumption Prediction - Multiple Regression Model
 
