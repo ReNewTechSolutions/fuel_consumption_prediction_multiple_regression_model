@@ -80,6 +80,10 @@ R² Score
 📊 Visualization
 The project generates a 3D regression plane for better interpretation.
 
+## 📊 3D Regression Plane Visualization
+
+![3D Regression Plane](3DregressionplaneenginesizeCO2Emissions.png)
+
 Scatter plots help compare actual vs predicted emissions.
 
 Ridge Regression tuning is performed and evaluated separately.
