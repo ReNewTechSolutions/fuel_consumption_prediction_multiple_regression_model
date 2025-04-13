@@ -1,7 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-blueviolet)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-blueviolet.svg)
+![Environment Ready](https://img.shields.io/badge/Environment-Ready-brightgreen.svg)
 [![Download Release](https://img.shields.io/github/v/release/ReNewTechSolutions/fuel_consumption_prediction_multiple_regression_model?label=Download%20Release)](https://github.com/ReNewTechSolutions/fuel_consumption_prediction_multiple_regression_model/releases/latest)
 [![GitHub Project](https://img.shields.io/badge/View%20Project-on%20GitHub-blue?logo=github)](https://github.com/ReNewTechSolutions/fuel_consumption_prediction_multiple_regression_model)
 
@@ -23,6 +24,10 @@ fuel_consumption_prediction_multiple_regression_model/ │── README.md # Pro
 bash
 Copy
 Edit
+
+### 🛠 Environment Setup
+Includes `startup_template.py` to auto-fix SSL, load core libraries (Pandas, NumPy, Matplotlib, Scikit-learn), configure plotting, and clean output. Ready for ML & Data Science workflows!
+
 
 ## 📊 Dataset
 
